@@ -2,7 +2,6 @@
 **My name is José Justino, and I'm a Web Software Developer. Check out my work!**
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josejustinoneto/">
