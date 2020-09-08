@@ -29,11 +29,16 @@
 **Technologies I have worked**
 
 ![React](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
-![Node](https://img.shields.io/badge/Node-%23339933?style=flat&logo=node.js&logoColor=fff)&nbsp;
 ![.Net](https://img.shields.io/badge/.Net-%235c2d91?style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479a1?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=fff)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-%232496ed?style=flat&logo=docker&logoColor=fff)
+
+<br>
+
+**What I'm studing**
+
+![Node](https://img.shields.io/badge/Node-%23339933?style=flat&logo=node.js&logoColor=fff)
 
 <br>
 
