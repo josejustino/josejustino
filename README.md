@@ -28,6 +28,8 @@
 
 **Technologies I have worked**
 
+![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=flat&logo=html5&logoColor=fff)&nbsp;
+![HTML5](https://img.shields.io/badge/CSS3-%231572b6?style=flat&logo=css3&logoColor=fff)&nbsp;
 ![React](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
 ![.Net](https://img.shields.io/badge/.Net-%235c2d91?style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479a1?style=flat&logo=mysql&logoColor=fff)&nbsp;
