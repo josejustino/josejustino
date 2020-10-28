@@ -21,7 +21,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=000)&nbsp;
 ![CSharp](https://img.shields.io/badge/C%23-%23239120?style=flat&logoColor=fff)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777bb4?style=flat&logo=php&logoColor=fff)&nbsp;
 
 <br>
 
