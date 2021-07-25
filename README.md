@@ -52,4 +52,11 @@
 **Gaming Plataforms I like**
 
 ![PlayStation](https://img.shields.io/badge/PlayStation-%23003791?style=flat&logo=playstation&logoColor=fff)&nbsp;
-![Nintendo](https://img.shields.io/badge/Nintendo-%23D12228?style=flat&logo=nintendo&logoColor=fff)	
+![Nintendo](https://img.shields.io/badge/Nintendo-%23D12228?style=flat&logo=nintendo&logoColor=fff)
+
+<a href="https://github.com/josejustino/github-readme-stats">
+  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=josejustino&count_private=true&show_icons=true&custom_title=José's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/cunhasbia/github-readme-stats">
+   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejustino&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
+</a>
