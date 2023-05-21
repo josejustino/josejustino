@@ -28,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=flat&logo=html5&logoColor=fff)&nbsp;
 ![HTML5](https://img.shields.io/badge/CSS3-%231572b6?style=flat&logo=css3&logoColor=fff)&nbsp;
 ![React](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
-![.Net](https://img.shields.io/badge/.Net-%235c2d91?style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479a1?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=fff)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-%232496ed?style=flat&logo=docker&logoColor=fff)
