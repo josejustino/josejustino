@@ -30,7 +30,7 @@
 ![React](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479a1?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=fff)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-%232496ed?style=flat&logo=docker&logoColor=fff)
+![SQLServer](https://img.shields.io/badge/SQLServer-%232496ed?style=flat&logo=sqlserver&logoColor=fff)
 
 <br>
 
