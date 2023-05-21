@@ -42,7 +42,6 @@
 
 **Editors and IDEs**
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235c2d91?style=flat&logo=visual%20studio&logoColor=fff)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230074cc?style=flat&logo=visual%20studio%20code&logoColor=fff)
 
 <br>
