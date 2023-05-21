@@ -51,6 +51,7 @@
 
 ![PlayStation](https://img.shields.io/badge/PlayStation-%23003791?style=flat&logo=playstation&logoColor=fff)&nbsp;
 ![Nintendo](https://img.shields.io/badge/Nintendo-%23D12228?style=flat&logo=nintendo&logoColor=fff)
+![PC](https://img.shields.io/badge/PC-%23556DB3?style=flat&logo=pcgamingwiki&logoColor=fff)
 
 <br>
 
