@@ -60,4 +60,5 @@
 </a>
 <a href="https://github.com/cunhasbia/github-readme-stats">
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejustino&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
+   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejustino&layout=compact&langs_count=7&theme=dark"/>
 </a>
