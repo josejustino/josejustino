@@ -53,6 +53,8 @@
 ![Nintendo](https://img.shields.io/badge/Nintendo-%23D12228?style=flat&logo=nintendo&logoColor=fff)
 ![PC](https://img.shields.io/badge/PC-%23556DB3?style=flat&logo=pcgamingwiki&logoColor=fff)
 
+<a href="https://app.rocketseat.com.br/me/josejustino"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=josejustino&type=card" width="280" alt="José Justino Neto's Rocket ID"/></a>
+
 <br>
 
 <a href="https://github.com/josejustino/github-readme-stats">
