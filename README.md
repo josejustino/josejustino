@@ -39,7 +39,7 @@ Sofware Developer experienced in both frontend and backend development, mainly f
   <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
       <td align="center" style="border: none; background: transparent; padding: 4px;">
-        <a href="https://github.com/cunhasbia/github-readme-stats">
+        <a href="https://github.com/josejustino/github-readme-stats">
           <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejustino&layout=compact&theme=vision-friendly-dark&langs_count=6" />
         </a>
       </td>
