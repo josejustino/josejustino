@@ -7,8 +7,7 @@ Sofware Developer experienced in both frontend and backend development, mainly f
 <p align="center">
   <a href="https://linkedin.com/in/josejustinoneto/">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5&message=LINKEDIN" />
-  </a>
-  
+  </a>  
   <a href="https://instagram.com/josejustinno/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
