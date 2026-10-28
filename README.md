@@ -1,15 +1,12 @@
 # Hi there! 👋
-**My name is José Justino, and I'm a Web Software Developer. Check out my work!**
+**Olá, meu nome é José Justino, sou programador FullStack**
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josejustinoneto/">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5&message=LINKEDIN" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codesandbox.io/u/josejustino">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=codesandbox&logoColor=white&color=black&message=CODESANDBOX" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;  
   <a href="https://twitter.com/_josejustino">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=twitter&logoColor=white&color=blue&message=TWITTER" />
   </a>
@@ -28,15 +25,11 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=flat&logo=html5&logoColor=fff)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572b6?style=flat&logo=css3&logoColor=fff)&nbsp;
-![React](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
+![Reactjs](https://img.shields.io/badge/React-%2361d1fb?style=flat&logo=react&logoColor=000)&nbsp;
+![Nestjs](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479a1?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=fff)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=fff)
-
-<br>
-
-**What I'm studing**
-
 ![Node](https://img.shields.io/badge/Node-%23339933?style=flat&logo=node.js&logoColor=fff)
 
 <br>
