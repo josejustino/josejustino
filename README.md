@@ -5,11 +5,11 @@ Sofware Developer experienced in both frontend and backend development, mainly f
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/josejustinoneto/">
+  <a href="https://linkedin.com/in/josejustinoneto/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5&message=LINKEDIN" />
   </a>
   <span style="margin: 0 8px"></span>
-  <a href="https://instagram.com/josejustinno/">
+  <a href="https://instagram.com/josejustinno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
